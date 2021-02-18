@@ -234,7 +234,7 @@ Edit your Lovelace-Dashboard in raw Mode and add this:
                     color: '#FF0000'
             state_color: true
             title: Pi Network Blockchain Container
-
+```
 
 ## Node-Red configuration
 Import the following Nodes and Add your Mapquest and IP-API-Key into the Right "GetInfo"-Node. Configure your HomeAssistant-Instance in every Blue-Entity-Node. Also configure the Docker-Node to connect to your Docker-Instance
