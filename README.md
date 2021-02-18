@@ -3,6 +3,8 @@ HomeAssistant Info Tab for the PiNetwork Node-Container
 
 [Pi is a new Crypto Currency](https://minepi.com/white-paper) which is not yet avaiable for Trading. This repository represents a solution to get the most Information you can get out of the avaiable Node-Container for the MinePi-Node within the [MinePi-App](https://node.minepi.com) and visualize it using [Node-Red](https://nodered.org), [Home Assistant](https://www.home-assistant.io), the [Mapquest-](https://developer.mapquest.com/documentation/) and [IP-API](https://ipapi.com)
 
+![Image](https://github.com/MrDrache333/HA-PiNetwork-Node-Info-Tab/blob/main/screenshot.jpg?raw=true)
+
 ## Requirements
 - Running Home Assistant Instance
 - Running Pi-Network-Node-Container
